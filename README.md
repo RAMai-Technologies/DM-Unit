@@ -1,16 +1,3 @@
-<p align="center">
-  <img src=".DMlogo1.png" width="260" alt="DM-Unit Logo">
-</p>
-
-<h1 align="center">DM‑Unit</h1>
-<h3 align="center">Sovereign Deterministic Machine Architecture</h3>
-
-<p align="center">
-  Built by <a href="https://github.com/RAMai-Technologies">RAMai‑Technologies</a>
-</p>
-
-<hr>
-
 DM‑Unit — Sovereign Deterministic Machine
 DM‑Unit is a sovereign computational machine engineered for local, deterministic, offline‑first cognition.
 It operates without cloud dependencies, external influence, or probabilistic drift.
