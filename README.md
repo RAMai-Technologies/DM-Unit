@@ -1,144 +1,111 @@
 DM‑Unit — Sovereign Deterministic Machine
-DM‑Unit is a sovereign computational machine designed for local, deterministic, offline‑first cognition. It operates without cloud dependencies, external influence, or probabilistic drift. The system executes logic with perfect repeatability, traceability, and control — forming the foundation of a new class of personal AI systems that behave like machines, not models.
+DM‑Unit is a sovereign computational machine engineered for local, deterministic, offline‑first cognition.
+It operates without cloud dependencies, external influence, or probabilistic drift.
+Every operation is repeatable, traceable, and fully controlled — forming a new class of personal AI systems that behave like machines, not models.
+
+DM‑Unit is the foundation of the DM700 sovereign architecture.
+
+Why Determinism?
+Modern AI systems rely on probabilistic behavior, drift, and opaque decision‑making.
+DM‑Unit rejects this paradigm.
+
+Deterministic cognition provides:
+
+Predictable behavior
+
+Full auditability
+
+Safety and repeatability
+
+Zero external influence
+
+Sovereign user control
+
+Certification‑ready logic
+
+DM‑Unit is designed for environments where trust, stability, and sovereignty matter more than scale.
 
 Core Principles
+Deterministic execution — no randomness, no drift
 
-DM‑Unit is built on a set of strict architectural principles that ensure sovereignty and determinism:
+Offline‑first operation — zero cloud reliance
 
-1.Deterministic execution with no randomness or drift
+Sovereign memory — user‑controlled, chunk‑indexed
 
-2.Offline‑first operation with zero cloud reliance
+Zero external influence — no remote modification
 
-3.Sovereign, user‑controlled memory
-
-4.Zero external influence or remote modification
-
-5.Machine‑behavior philosophy rather than probabilistic modeling
+Machine‑behavior philosophy — structured logic, not probabilistic modeling
 
 
 
-Architecture Overview
+DM Unit Architecture Overview 
+
+<img width="635" height="435" alt="DMunit Architechture Overview" src="https://github.com/user-attachments/assets/0b46ad1e-9617-4721-b1e2-ed01f491e2d4" />
+
+Sovereign VM 
 
 
+<img width="591" height="432" alt="SovereignVM" src="https://github.com/user-attachments/assets/7377447d-e1a0-4e2c-b1b8-2d4f52760893" />
 
-DM‑Unit’s architecture is composed of several tightly defined components, each serving a deterministic role:
+Bios Boot Flow
 
 
+<img width="528" height="407" alt="Bios Boot Flow" src="https://github.com/user-attachments/assets/8ee5dbc0-876c-4b7a-b976-04091935d1fc" />
 
-Sovereignty Layer — Maintains independence from external systems and enforces local‑only operation
+Chunk‑Indexed Memory Map
 
-Deterministic Runtime — Guarantees predictable, repeatable execution
 
-Memory Subsystem — Provides chunk‑indexed, structured, deterministic storage
+<img width="461" height="427" alt="Chunk-Indexed  Memory Map" src="https://github.com/user-attachments/assets/0277d2cb-bd6a-420e-8916-f9860432d37f" />
 
-Logic Pack Loader — Supports modular, optional behavior packs such as CLP‑1
+ASL Segmentation System
 
-Execution Pipeline — Processes logic through a step‑by‑step deterministic flow
+
+<img width="500" height="287" alt="ASL Segmentation System" src="https://github.com/user-attachments/assets/18734765-79a6-4ead-84fa-32362799c925" />
+
+DM700 Phase Ladder
+
+
+<img width="497" height="436" alt="DM700 Phase Ladder" src="https://github.com/user-attachments/assets/0889d3e2-f1d0-4608-854a-429c3603ce28" />
+
+DM Motherboard Concept
+
+
+<img width="535" height="437" alt="DM Motherboard Concept" src="https://github.com/user-attachments/assets/8241de81-b32d-42c3-a002-be47a57dd403" />
 
 Repository Structure
-The repository is organized into clear functional areas to support development, documentation, and deterministic validation:
 
-core/
 
-runtime/ — deterministic execution engine
+<img width="427" height="730" alt="Repository Structure" src="https://github.com/user-attachments/assets/9c1378de-c2af-4687-8f4c-f769300034f6" />
 
-memory/ — chunk‑indexed memory subsystem
 
-io/ — input/output interfaces
+Roadmap
 
-sovereignty/ — independence and control mechanisms
+DM‑Unit Runtime v0.1
 
-spec/
+Sovereignty Layer Draft
 
-DM700/ — sovereign hardware specifications
-
-cognition/ — deterministic cognition definitions
-
-sovereignty/ — sovereignty model rules
-
-docs/
-
-overview/ — high‑level explanations
-
-architecture/ — detailed breakdowns
-
-logic‑packs/ — modular behavior pack documentation
-
-api/ — integration points
-
-examples/
-
-basic/ — simple usage examples
-
-advanced/ — complex flows
-
-tests/
-
-unit/ — deterministic unit tests
-
-integration/ — full‑pipeline validation
-
-README.md — project overview and mission
-
-Specification (v0.1)
-DM‑Unit defines a new class of sovereign computational machines built for deterministic cognition.
-
-Purpose:  
-To create an offline‑first, deterministic engine that behaves like a machine rather than a probabilistic model.
-
-Core Components:
-
-Deterministic Runtime
-
-Sovereignty Layer
-
-Memory Subsystem
+Memory Subsystem Prototype
 
 Logic Pack Loader
 
-Execution Pipeline
+Deterministic Test Suite
 
-Deterministic Cognition:
+DM700 Appendix
 
-No randomness
+Hardware Integration Spec
 
-No drift
+Contact
 
-No external influence
+RAMai Technologies Inc.
 
-Fully traceable logic
+Gander Newfoundland
 
-Sovereignty Model:
+Founder: Rommel A. Maningat
 
-Local‑only computation
+info@ramai.dev
 
-User‑controlled memory
 
-Modular logic packs
 
-Zero cloud dependency
 
-Future Extensions:
 
-DM700 hardware integration
 
-ASL segmentation system
-
-Logic pack marketplace
-
-BIOS‑level sovereign boot
-
-Roadmap
-[ ] DM‑Unit Runtime v0.1
-
-[ ] Sovereignty Layer Draft
-
-[ ] Memory Subsystem Prototype
-
-[ ] Logic Pack Loader
-
-[ ] Deterministic Test Suite
-
-[ ] DM700 Appendix
-
-[ ] Hardware Integration Spec
