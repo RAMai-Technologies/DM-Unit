@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/DMlogo.png" width="260" alt="DM-Unit Logo">
+  <img src=".DMlogo1.png" width="260" alt="DM-Unit Logo">
 </p>
 
 <h1 align="center">DM‑Unit</h1>
