@@ -108,11 +108,6 @@ DM700 Appendix
 Hardware Integration Spec
 
 
-[Vision Statement](https://ramai.dev/vision)
-
-[DM Unit Overview](https://ramai.dev/dm-unit)
-
-[Provincial Pilot Proposal](https://ramai.dev/pilot)
 
 
 Contact
