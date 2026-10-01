@@ -4,7 +4,7 @@
 <h1 align="center">DM‑Unit</h1>
 <h3 align="center">Sovereign Deterministic Machine Architecture</h3>
 <p align="center">
-  Built by <a href="https://github.com/RAMai-Technologies">RAMai‑Technologies</a>
+  Built by <a href="https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=120&action=edit">RAMai‑Technologies</a>
 </p>
 <hr>
 
