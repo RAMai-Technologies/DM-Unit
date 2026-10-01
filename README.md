@@ -93,10 +93,15 @@ Hardware Integration Spec
 [dm-unit]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=188&action=edit
 [kernel]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=173&action=edit
 [sovereign]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=151&action=edit
-[memory]: https://wordpress-1654807-6619708.cloudwaysapps.com/memory-architecture/
+[memory]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=205&action=edit
 [asl]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=207&action=edit
 [dm700]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=115&action=edit
 [home]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=120&action=edit
+
+
+
+### Company Site
+- [RAMai Technologies][home]
 
 
 Contact
