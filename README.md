@@ -1,137 +1,61 @@
-<p align="center">
-  <img src="./assets/DMlogo1.png" width="260" alt="DM-Unit Logo">
-</p>
-<h1 align="center">DM‑Unit</h1>
-<h3 align="center">Sovereign Deterministic Machine Architecture</h3>
-<p align="center">
-  Built by <a href="https://github.com/RAMai-Technologies">RAMai‑Technologies</a>
-</p>
-<hr>
+# DM-Unit — Sovereign Deterministic Machine
 
-## Official Documentation
+DM-Unit is a **sovereign AI architecture** for local, deterministic computation.  
+It is the software foundation of the DM700 hardware engine and the core of a fully user-owned, offline-first, cloud-isolated intelligence machine.
 
-- [DM‑Unit Overview][dm-unit]
-- [Deterministic Kernel][kernel]
-- [Sovereign Compute Model][sovereign]
-- [Memory Architecture][memory]
-- [ASL Segmentation][asl]
-- [DM‑700 Roadmap][dm700]
+DM-Unit is not a model.  
+It is a **machine**: deterministic, hardware-anchored, and sovereign by design.
 
+---
 
-DM‑Unit — Sovereign Deterministic Machine
-DM‑Unit is a sovereign computational machine engineered for local, deterministic, offline‑first cognition.
-It operates without cloud dependencies, external influence, or probabilistic drift.
-Every operation is repeatable, traceable, and fully controlled — forming a new class of personal AI systems that behave like machines, not models.
+## Core Principles
 
-DM‑Unit is the foundation of the DM700 sovereign architecture.
+- **Deterministic Execution**  
+  No stochastic behavior, no hallucinations, no drift. Identical inputs → identical outputs.
 
+- **Sovereignty**  
+  No cloud dependency, no external override, no remote control vectors.
 
-Why Determinism?
+- **Hardware-Anchored Identity**  
+  Identity is bound to hardware, not accounts or APIs.
 
-Modern AI systems rely on probabilistic behavior, drift, and opaque decision‑making.
-DM‑Unit rejects this paradigm.
+- **Structured Memory**  
+  Memory is treated as a structured, indexed system — not a neural pattern.
 
+- **User-Owned, User-Controlled**  
+  The operator is the highest authority. The machine belongs to the user.
 
-Deterministic cognition provides:
+---
 
-Predictable behavior
+## High-Level Architecture
 
-Full auditability
+DM-Unit is composed of several sovereign subsystems:
 
-Safety and repeatability
+- **Deterministic Kernel** — Enforces invariants, constraints, and deterministic logic.
+- **Sovereign VM** — Provides a sandboxed, deterministic execution environment.
+- **Hardware Anchor** — Binds DM to physical identity and stabilizes routing.
+- **Memory Anchor** — Governs deterministic recall, continuity, and memory stability.
+- **ASL Segmentation System** — Segments cognition into deterministic domains.
+- **Logic Pack System** — Modular, deterministic behavior packs (optional, swappable).
+- **Deterministic Runtime** — Ensures repeatable, non-stochastic execution.
+- **Reinforcement Engine (DM700)** — Applies deterministic deltas to stabilize and refine cognition.
+- **Sovereignty Model** — Defines the rules of user ownership, cloud isolation, and worldview protection.
+- **DM Roadmap** — Outlines evolution from DM-Unit → DM700 → full sovereign machine.
 
-Zero external influence
+---
 
-Sovereign user control
+## Repository Structure
 
-Certification‑ready logic
-
-DM‑Unit is designed for environments where trust, stability, and sovereignty matter more than scale.
-
-
-Core Principles
-
-Deterministic execution — no randomness, no drift
-
-Offline‑first operation — zero cloud reliance
-
-Sovereign memory — user‑controlled, chunk‑indexed
-
-Zero external influence — no remote modification
-
-Machine‑behavior philosophy — structured logic, not probabilistic modeling
-
-
-
-DM Unit Architecture Overview
-
-<img width="635" height="435" alt="DMunit Architechture Overview" src="https://github.com/user-attachments/assets/0b46ad1e-9617-4721-b1e2-ed01f491e2d4" />
-
-Sovereign VM
-
-<img width="591" height="432" alt="SovereignVM" src="https://github.com/user-attachments/assets/7377447d-e1a0-4e2c-b1b8-2d4f52760893" />
-
-Bios Boot Flow
-
-<img width="528" height="407" alt="Bios Boot Flow" src="https://github.com/user-attachments/assets/8ee5dbc0-876c-4b7a-b976-04091935d1fc" />
-
-Chunk‑Indexed Memory Map
-
-<img width="461" height="427" alt="Chunk-Indexed  Memory Map" src="https://github.com/user-attachments/assets/0277d2cb-bd6a-420e-8916-f9860432d37f" />
-
-ASL Segmentation System
-
-<img width="500" height="287" alt="ASL Segmentation System" src="https://github.com/user-attachments/assets/18734765-79a6-4ead-84fa-32362799c925" />
-
-DM700 Phase Ladder
-
-<img width="497" height="436" alt="DM700 Phase Ladder" src="https://github.com/user-attachments/assets/0889d3e2-f1d0-4608-854a-429c3603ce28" />
-
-DM Motherboard Concept
-
-<img width="535" height="437" alt="DM Motherboard Concept" src="https://github.com/user-attachments/assets/8241de81-b32d-42c3-a002-be47a57dd403" />
-
-Repository Structure
-
-<img width="427" height="730" alt="Repository Structure" src="https://github.com/user-attachments/assets/9c1378de-c2af-4687-8f4c-f769300034f6" />
-
-Roadmap
-
-DM‑Unit Runtime v0.1
-
-Sovereignty Layer Draft
-
-Memory Subsystem Prototype
-
-Logic Pack Loader
-
-Deterministic Test Suite
-
-DM700 Appendix
-
-Hardware Integration Spec
-
-
-[dm-unit]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=188&action=edit
-[kernel]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=173&action=edit
-[sovereign]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=151&action=edit
-[memory]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=205&action=edit
-[asl]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=207&action=edit
-[dm700]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=115&action=edit
-[home]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=120&action=edit
-
-
-
-### Company Site
-- [RAMai Technologies][home]
-
-
-Contact
-
-RAMai Technologies Inc.
-
-Gander Newfoundland
-
-Founder: Rommel A. Maningat
-
-info@ramai.dev
+```text
+DM-Unit/
+│
+├── ASL/                     # ASL Segmentation System
+├── DM-Kernel/               # Deterministic Kernel and constraint engine
+├── DM700/                   # Hardware evolution of DM-Unit (DM700 engine)
+├── Memory Architecture/     # Memory Anchor, structure, and physics
+├── Memory Physics/          # Memory behavior and continuity fields
+├── Runtime/                 # Deterministic Runtime, Router Runtime, Kernel Runtime
+├── Logic-Packs/             # Logic Pack System and pack registry
+├── assets/                  # Logos, diagrams, visual assets
+├── docs/                    # Specifications, roadmap, sovereignty model, architecture docs
+└── src/                     # Source code for kernel, VM, router, memory, packs
