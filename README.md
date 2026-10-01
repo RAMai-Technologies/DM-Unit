@@ -11,6 +11,19 @@
 
 <hr>
 
+Official Documentation
+
+- [DM‑Unit Overview][dm-unit]
+- [Deterministic Kernel][kernel]
+- [Sovereign Compute Model][sovereign]
+- [Memory Architecture][memory]
+- [ASL Segmentation][asl]
+- [DM‑700 Roadmap][dm700]
+
+Company Site
+- [RAMai Technologies][home]
+  
+
 DM‑Unit — Sovereign Deterministic Machine
 DM‑Unit is a sovereign computational machine engineered for local, deterministic, offline‑first cognition.
 It operates without cloud dependencies, external influence, or probabilistic drift.
@@ -108,6 +121,13 @@ DM700 Appendix
 Hardware Integration Spec
 
 
+[dm-unit]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=188&action=edit
+[kernel]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=173&action=edit
+[sovereign]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=151&action=edit
+[memory]: https://wordpress-1654807-6619708.cloudwaysapps.com/memory-architecture/
+[asl]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=207&action=edit
+[dm700]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=115&action=edit
+[home]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=120&action=edit
 
 
 Contact
