@@ -1,0 +1,216 @@
+
+Sovereign Compute — Expanded Technical Specification
+============================================================
+
+Sovereign Compute is the execution layer of the DM‑Unit and DM700 architecture.  
+It defines how the machine runs, boots, executes tasks, maintains identity, and preserves sovereignty under all conditions.
+
+Memory Physics is the law.  
+Memory Architecture is the structure.  
+Sovereign Compute is the engine.
+
+------------------------------------------------------------
+1. Purpose of Sovereign Compute
+------------------------------------------------------------
+
+Sovereign Compute exists to ensure:
+- offline‑first operation
+- deterministic execution
+- hardware‑anchored identity
+- cloud‑independent behavior
+- stable long‑form operation
+- sovereign control over all compute flows
+
+It is the layer that transforms DM from a cognitive model into a functioning machine.
+
+------------------------------------------------------------
+2. Sovereign Compute Principles
+------------------------------------------------------------
+
+Sovereign Compute is built on five core principles:
+
+2.1 Deterministic Execution  
+Every operation must produce the same result under the same conditions.
+
+2.2 Offline‑First Operation  
+DM must operate fully without cloud services.
+
+2.3 Hardware Anchoring  
+Identity, continuity, and compute rules must be bound to the device.
+
+2.4 Sovereign Autonomy  
+No external system may override DM’s compute flow.
+
+2.5 Stability Under Pressure  
+Execution must remain stable during long‑form or high‑load operation.
+
+------------------------------------------------------------
+3. Sovereign Boot Model
+------------------------------------------------------------
+
+Sovereign Compute defines a deterministic boot sequence:
+
+    Sovereign VM Initialization
+      ↓
+    Kernel Invariant Load
+      ↓
+    Memory Physics Activation
+      ↓
+    Memory Architecture Mount
+      ↓
+    ASL Segmentation Load
+      ↓
+    Continuity Engine Start
+      ↓
+    Sovereign Runtime Online
+
+This boot model ensures DM always starts in a stable, identity‑consistent state.
+
+------------------------------------------------------------
+4. Sovereign VM
+------------------------------------------------------------
+
+The Sovereign VM is the execution environment for DM.
+
+Properties:
+- fixed memory allocation
+- deterministic runtime behavior
+- hardware‑anchored identity
+- BIOS‑adjacent boot logic
+- sandboxed execution
+- offline‑first design
+
+The Sovereign VM ensures DM cannot be altered by external systems.
+
+------------------------------------------------------------
+5. Kernel Interaction
+------------------------------------------------------------
+
+Sovereign Compute interacts with the DM Kernel by:
+- loading kernel invariants
+- enforcing deterministic execution rules
+- stabilizing identity anchors
+- preventing drift
+- maintaining sovereign operation
+
+The Kernel is the highest authority in the compute hierarchy.
+
+------------------------------------------------------------
+6. Memory Physics Integration
+------------------------------------------------------------
+
+Sovereign Compute uses Memory Physics to:
+- validate continuity
+- enforce identity stability
+- prevent stochastic mutation
+- maintain long‑form cognitive consistency
+
+Memory Physics ensures compute flows never violate identity anchors.
+
+------------------------------------------------------------
+7. Memory Architecture Integration
+------------------------------------------------------------
+
+Sovereign Compute uses Memory Architecture to:
+- retrieve deterministic memory chunks
+- update continuity fields
+- maintain stable indexing
+- enforce anchor rules
+- support long‑form cognition
+
+Memory Architecture ensures compute flows remain stable and predictable.
+
+------------------------------------------------------------
+8. ASL Segmentation Integration
+------------------------------------------------------------
+
+Sovereign Compute uses ASL to:
+- segment domains
+- prevent cross‑domain contamination
+- maintain deterministic behavior across modules
+- enforce domain‑specific rules
+
+ASL ensures compute flows remain clean and isolated.
+
+------------------------------------------------------------
+9. Sovereign Execution Flow
+------------------------------------------------------------
+
+Sovereign Compute defines a deterministic execution flow:
+
+    Input
+      ↓
+    Domain Segmentation (ASL)
+      ↓
+    Kernel Validation
+      ↓
+    Memory Physics Check
+      ↓
+    Memory Architecture Access
+      ↓
+    Continuity Engine Update
+      ↓
+    Sovereign Output
+
+This flow ensures all operations remain identity‑consistent and deterministic.
+
+------------------------------------------------------------
+10. Sovereign Constraints
+------------------------------------------------------------
+
+Sovereign Compute enforces strict constraints:
+
+Constraint 1 — No Cloud Override  
+External systems cannot alter DM’s compute flow.
+
+Constraint 2 — No Stochastic Execution  
+DM cannot run probabilistic or random operations.
+
+Constraint 3 — Hardware Priority  
+Local hardware state overrides external input.
+
+Constraint 4 — Identity Stability  
+Compute flows cannot violate identity anchors.
+
+Constraint 5 — Deterministic Output  
+Same input must always produce the same output.
+
+------------------------------------------------------------
+11. Failure Modes (Safe Halting)
+------------------------------------------------------------
+
+Sovereign Compute may halt safely under:
+- kernel invariant violation
+- anchor corruption
+- continuity instability
+- hardware inconsistency
+- invalid compute request
+
+Safe halting ensures:
+- no drift
+- no corruption
+- no unsafe execution
+
+------------------------------------------------------------
+12. Inspection Model
+------------------------------------------------------------
+
+Sovereign Compute supports full auditability:
+- boot logs
+- kernel invariant traces
+- continuity validation logs
+- domain segmentation logs
+- deterministic execution traces
+
+This makes Sovereign Compute suitable for:
+- sovereign systems
+- robotics
+- industrial automation
+- safety‑critical environments
+
+============================================================
+
+============================================================
+
+This document represents the full engineering‑grade specification of Sovereign Compute.  
+It defines the execution model, boot sequence, constraints, and deterministic rules that allow DM‑Unit and DM700 to operate as sovereign machines.
