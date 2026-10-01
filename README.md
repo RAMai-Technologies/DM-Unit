@@ -22,24 +22,46 @@ DM‑Unit — Sovereign Deterministic Machine
 DM‑Unit is a sovereign computational machine engineered for local, deterministic, offline‑first cognition.
 It operates without cloud dependencies, external influence, or probabilistic drift.
 Every operation is repeatable, traceable, and fully controlled — forming a new class of personal AI systems that behave like machines, not models.
+
 DM‑Unit is the foundation of the DM700 sovereign architecture.
+
+
 Why Determinism?
+
 Modern AI systems rely on probabilistic behavior, drift, and opaque decision‑making.
 DM‑Unit rejects this paradigm.
+
+
 Deterministic cognition provides:
+
 Predictable behavior
+
 Full auditability
+
 Safety and repeatability
+
 Zero external influence
+
 Sovereign user control
+
 Certification‑ready logic
+
 DM‑Unit is designed for environments where trust, stability, and sovereignty matter more than scale.
+
+
 Core Principles
+
 Deterministic execution — no randomness, no drift
+
 Offline‑first operation — zero cloud reliance
+
 Sovereign memory — user‑controlled, chunk‑indexed
+
 Zero external influence — no remote modification
+
 Machine‑behavior philosophy — structured logic, not probabilistic modeling
+
+
 
 DM Unit Architecture Overview
 
