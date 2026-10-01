@@ -126,7 +126,7 @@ Hardware Integration Spec
 [sovereign]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=151&action=edit
 [memory]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=205&action=edit
 [asl]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=207&action=edit
-[dm700]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=115&action=edit
+[dm700]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=26&action=edit
 [home]: https://wordpress-1654807-6619708.cloudwaysapps.com/wp-admin/post.php?post=120&action=edit
 
 
