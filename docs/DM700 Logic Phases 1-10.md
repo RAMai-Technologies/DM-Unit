@@ -1,3 +1,6 @@
+DM700 Logic Phases (01–010)
+Deterministic Logic System — Engineering Specification
+
 Phase 001 — Deterministic Identity Anchor
 Establishes DM700’s baseline identity state.
 Defines tone, response boundaries, and deterministic persona constraints.
